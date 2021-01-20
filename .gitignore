@@ -11,6 +11,7 @@ app/public/wp-content/upgrade/
 app/public/wp-content/uploads/
 app/public/wp-content/wp-cache-config.php
 app/public/wp-content/plugins/
+app/public/wp-content/themes/
 
 /.htaccess
 /license.txt
