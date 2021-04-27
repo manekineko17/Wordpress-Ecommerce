@@ -1,5 +1,9 @@
 # WP-e-commerce-Kimono
 
+Création d'un site e-commerce via une interface utilisateur avec
+une solution de gestion de contenu ou e-commerce (CMS), ici Wordpress.
+
+Etapes de réalisation : 
 *Téléchargement et installation de Local (incluant serveur et base de donnée en local) : https://localwp.com/
 
 *Ouverture de Local
